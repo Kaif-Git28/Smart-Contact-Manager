@@ -37,7 +37,7 @@ class ApplicationTests {
 ////		assertThat(result).isEqualTo(50);
 //
 //		 assertThat(list).asList().size().isGreaterThan(5);
-//
+	// cheak the assertions
 //
 //
 //
